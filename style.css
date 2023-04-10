@@ -19,7 +19,7 @@ body {
 }
 
 header {
-  margin-bottom: 2em;
+  margin-bottom: 3em;
 }
 
 nav {
@@ -39,7 +39,7 @@ nav li:last-child {
 }
 
 footer {
-  margin-top: 2em;
+  margin-top: 3em;
 }
 
 h1 {
