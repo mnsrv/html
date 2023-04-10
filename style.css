@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'PT Mono';
+  src: url('fonts/pt-mono-v13-cyrillic_latin-regular.woff2');
+}
+
+body {
+  font-family: 'PT Mono', monospace;
+  margin: 1em;
+  font-size: 1rem;
+  line-height: 1;
+  color: black;
+  background-color: white;
+}
+
+header {
+  margin-bottom: 2em;
+}
+
+footer {
+  margin-top: 2em;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 1em;
+  margin: 1em 0 0;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+a:hover {
+  color: white;
+  background-color: black;
+}
