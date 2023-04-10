@@ -22,6 +22,22 @@ header {
   margin-bottom: 2em;
 }
 
+nav {
+  margin: 1em 0;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
+nav li:last-child {
+  margin-right: 0;
+}
+
 footer {
   margin-top: 2em;
 }
