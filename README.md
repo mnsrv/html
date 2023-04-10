@@ -1,0 +1,1 @@
+to run server locally `npx vite`
