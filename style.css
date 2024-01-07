@@ -56,6 +56,15 @@ a:hover {
   color: white;
   background-color: black;
 }
+
+.hover-opacity {
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+.hover-opacity:hover {
+  opacity: 0.75;
+}
+
 .wishlist {
   display: flex;
   flex-wrap: wrap;
